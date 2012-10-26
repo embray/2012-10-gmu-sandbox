@@ -12,6 +12,9 @@ def Shea():
     print "Hello. Shea here."
 	print "An added line here."
 	print "Here's another one."
+	print "making more lines"
+	print "this is an experiment"
+
 def J():
     print "Hi, my name is J."
 
