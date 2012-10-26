@@ -1,4 +1,5 @@
 def erik():
+    print "Hello"
     print "Hi, I'm Erik Bray."
     print "I have long blond hair."
 
