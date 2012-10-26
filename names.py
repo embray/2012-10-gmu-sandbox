@@ -3,6 +3,7 @@ def erik():
     print "Hi, I'm Erik Bray."
     print "I have long blond hair."
     print "I'm generally happy."
+    print "I am 29."
 
 def paul():
     print "Hi, back."
