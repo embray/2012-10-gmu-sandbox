@@ -6,7 +6,7 @@ def paul():
     print "Hi, back."
 =======
 def john():
-    print "I'm John.'"
+    print "I'm John."
 
 <<<<<<< HEAD
 <<<<<<< HEAD
