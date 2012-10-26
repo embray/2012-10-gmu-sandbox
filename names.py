@@ -4,6 +4,8 @@ def erik():
     print "I have long blond hair."
     print "I'm generally happy."
     print "A"
+    print "B"
+
 
 def paul():
     print "Hi, back."
