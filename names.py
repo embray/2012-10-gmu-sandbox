@@ -1,5 +1,6 @@
 def erik():
     print "Hi, I'm Erik."
+    print "I have long blond hair."
 
 <<<<<<< HEAD
 der paul():
