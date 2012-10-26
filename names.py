@@ -1,5 +1,6 @@
 def erik():
-    print "Hi, I'm Erik."
+    print "Hi, I'm Erik Bray."
+    print "I have a lot of hair."
 
 def paul():
     print "Hi, back."
