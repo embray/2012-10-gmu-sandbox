@@ -2,7 +2,7 @@ def erik():
     print "Hi, I'm Erik."
 
 <<<<<<< HEAD
-der paul():
+def paul():
     print "Hi, back."
 =======
 def john():
