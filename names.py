@@ -3,7 +3,7 @@ def erik():
     print "I have long blond hair."
 
 <<<<<<< HEAD
-der paul():
+def paul():
     print "Hi, back."
 =======
 def john():
